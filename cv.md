@@ -20,7 +20,7 @@
 
 ## Experience
 
-#### learn on course
+#### Learn on course
 
 - #### Modern JavaScript + Vue from scratch on real projects
   #### https://www.udemy.com/course/modern-javascript-from-beginning/
